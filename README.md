@@ -5,15 +5,15 @@
 - 📗 Estudando JavaScript, HTML and CSS
 <div>
   <a href="https://www.linkedin.com/in/gustavohenrique329/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo329&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo329&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gustavo329&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo329&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Guss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guss-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guss-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Guss-yoda" src="https://cdn.discordapp.com/attachments/818589898432839775/877260899751165952/picasion.com_09aa3a3c72c4a52b72da76c182f05231.gif">
+  <img align="right" alt="Guss-boneco" src="https://cdn.discordapp.com/attachments/818589898432839775/877260899751165952/picasion.com_09aa3a3c72c4a52b72da76c182f05231.gif">
 </div>
   
    ##
