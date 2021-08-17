@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gustavo329
+- 👀 I’m interested in learn more about coding and make my projects
+- 🌱 I’m currently learning JavaScript, HTML and CSS
