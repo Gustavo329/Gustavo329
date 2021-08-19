@@ -13,7 +13,7 @@
   <img align="center" alt="Guss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guss-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guss-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Guss-boneco" src="https://cdn.discordapp.com/attachments/818589898432839775/877260899751165952/picasion.com_09aa3a3c72c4a52b72da76c182f05231.gif">
+  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/818589898432839775/877260899751165952/picasion.com_09aa3a3c72c4a52b72da76c182f05231.gif">
 </div>
   
    ##
